@@ -6,10 +6,10 @@ PASS='86mings@@444sew';
 DBNAME='digitelp_guptatunnel';
 PORT_TCP='5666';
 PORT_UDP='5666';
-DOMAIN=jonlsooal.xyz
-CF_ZONE=1ed07d2807b8dc3aca6592ee095285f6
-CF_ID=digitelystems@gmail.com
-CF_KEY=562a5ed7cf34ebc07f94b5a8e75ceef93a66d
+DOMAIN=guptatunnel.xyz
+CF_ZONE=8597f5bb80902934552769632d8d3244
+CF_ID=ktajuddin085@gmail.com
+CF_KEY=ff38a953769705ef0b6425cd00e9be1afd8bd
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
